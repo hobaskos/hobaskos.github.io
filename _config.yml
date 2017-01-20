@@ -69,4 +69,5 @@ theme: hexo-theme-overdose
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: gruppe10
+  repo: https://github.com/hobaskos/hobaskos.github.io.git
+  branch: master
